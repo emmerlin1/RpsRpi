@@ -20,6 +20,6 @@ The first part of the project ([rotational_speed](https://github.com/emmerlin1/R
 The first (high-priority) thread measures the timing of the IR-signal via wiringPi-ISR, the second computes the time values received and the third writes the corresponding SQLite-database entries.
 
 ### Second Part - NodeJS-Project with Express, ChartJS ...
-The second part of this project ([RpsSQLiteNodejs](https://github.com/emmerlin1/RpsRpi/tree/RpsSQLiteNodejs) visualizes the SQLite-Database entries in form of a ChartJS-Linechart. The Data is refreshed every 5 seconds, so each time 5 data entries will be added, because we have rounds per one second.
+The second part of this project ([RpsSQLiteNodejs](https://github.com/emmerlin1/RpsRpi/tree/RpsSQLiteNodejs)) visualizes the SQLite-Database entries in form of a ChartJS-Linechart. The Data is refreshed every 5 seconds, so each time 5 data entries will be added to the chart, because one entry corresponds to one second.
 
 ![Rounds per Second](images/rps_diagram.png)
