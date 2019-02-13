@@ -1,5 +1,6 @@
 # RpsRpi
-Measuring motor cycles per second with a Raspberry Pi 3 and IR-Emitter/IR-Receiver
+## Measuring motor cycles per second with a Raspberry Pi 3 and IR-Emitter/IR-Receiver
 
 
-![IR Receiver](images/ir_measurement.jpg)![Rounds per Second](images/rps_diagram.png)
+![IR Receiver](images/ir_measurement.jpg)
+![Rounds per Second](images/rps_diagram.png)
