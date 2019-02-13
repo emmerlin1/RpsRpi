@@ -1,14 +1,5 @@
 # RpsRpi
 ## Measuring motor cycles per second with a Raspberry Pi 3 and IR-Emitter/IR-Receiver
-<<<<<<< HEAD
-This project is composed of two individual projects combined to be able to measure and display the rounds per second of a revving motor. Bouncing and timeoverflow is configurable. 
-
-The two projects are available as two branches: 
-+ [RpsSQLiteNodejs](https://github.com/emmerlin1/RpsRpi/tree/RpsSQLiteNodejs)
-=======
-This project is composed of two individual project parts combined to be able to measure and display the rounds per second of a revving motor. Bouncing and timeoverflow is configurable.
->>>>>>> master
-
 These two parts are available as branches:
 * [RpsSQLiteNodejs](https://github.com/emmerlin1/RpsRpi/tree/RpsSQLiteNodejs)
 * [rotational_speed](https://github.com/emmerlin1/RpsRpi/tree/rotational_speed)
